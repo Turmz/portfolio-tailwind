@@ -1,0 +1,24 @@
+{
+  "name": "portfolio-tailwind",
+  "version": "1.0.0",
+  "description": "Personal portolio created with Tailwind CSS.",
+  "main": "index.js",
+  "dependencies": {
+    "tailwindcss": "^1.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build:css": "tailwind build src/style.css -o dist/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Turmz/portfolio-tailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Turmz/portfolio-tailwind/issues"
+  },
+  "homepage": "https://github.com/Turmz/portfolio-tailwind#readme"
+}
